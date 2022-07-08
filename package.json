@@ -1,0 +1,23 @@
+{
+  "name": "calendarbot",
+  "version": "1.0.0",
+  "description": "Makes automated calendar announcements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedhwanAhm/Discord-Calendar-Announcement-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedhwanAhm/Discord-Calendar-Announcement-Bot/issues"
+  },
+  "homepage": "https://github.com/RedhwanAhm/Discord-Calendar-Announcement-Bot#readme",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1"
+  }
+}
